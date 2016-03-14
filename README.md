@@ -9,4 +9,13 @@
 ## `chrome content scripts`
 
 ## `semantic versioning`
-[semver.org](http://semver.org/)
+* [semver.org](http://semver.org/)
+
+## `dev env`
+* get xcode from App Store
+  * or install tools `xcode-select --install`
+* get Homebrew
+  * `ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
+  * NOTE: installed brews go into `/usr/local/Cellar/`
+* get `wget`
+  * `brew install wget`
