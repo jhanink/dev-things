@@ -19,3 +19,7 @@
   * NOTE: installed brews go into `/usr/local/Cellar/`
 * get `wget`
   * `brew install wget`
+* if you encounter __Operation not permitted__
+  * reboot and press `cmd+r`
+  * go to Utilities > Terminal
+  * `csrutil disable && reboot`
